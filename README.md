@@ -53,26 +53,30 @@ Ce programme effectue une attaque par force brute, le programme vous demande de 
 - une fois que vous avez saisi votre nombre dans la zone de saisi
 - appuyer sur le bouton generer
 - un message s'affichera en vous disant que "Les mots de passe sont générés dans fichier.txt"
-- vous allez dans la commande sur le fichier du nom de "fichier.txt"
+- vous allez dans la console sur le fichier du nom de "fichier.txt"
 - Les mots de passe seront ecrit selon votre nombre 
 5. Le programme compare le mot de passe au dictionnaire.  
-### Objectif :  
-Mettre en évidence les risques des mots de passe trop basiques.
+### Attention : Si vous entrer un nombre de caractere en dessus de 5 a generer sa ne marchera pas parce que sa prendra trop de temps a généré
+
 
 ---
 
-## **Programme 3 : Générateur de mot de passe sécurisé**
+## **Programme 2 : Attaque par dictionnaire**
 ### Description :  
-Un outil rapide et fiable pour créer des mots de passe robustes.  
+Ce programme teste la sécurité des mots de passe en utilisant une liste prédéfinie de mots communs.  
+J'ai crée un fichier ZIP ou j'ai mis un mot de passe, puis j'ai télécharger une liste de mots de passe communs sur internet oiu j'ai ajouter le mot de passe du fichier. 
 ### Fonctionnement :  
-1. Définissez les critères (longueur, types de caractères).  
-2. Le programme génère un mot de passe unique et sécurisé.  
-### Objectif :  
-Faciliter la création de mots de passe complexes.
+1. Vous pouvez revenir sur l'interface principale directement via les onglets en haut de la page
+2. Vous appuyez sur le bouton programme 2 dans l'interface principale une fenetre vas s'ouvrir
+3.  Sur celle si il y aura une fonctionnalité
+- une vous allez retrouver un bouton avec ecrit "Affichez le mot de passe"
+- appuyer dessus celui ci vous affichera le mot de passe de mon fichier zip, le mot de passe que j'ai mis dans la liste
+- Chaque fois que vous cliquer sur le bouton le message "bonjour :réussite !!" s'affichera dans la console
+
 
 ---
 
-## **Programme 4 : Analyseur de mot de passe**
+## **Programme 3 : Analyseur de mot de passe**
 ### Description :  
 Ce programme évalue la robustesse des mots de passe en fonction de plusieurs critères (longueur, complexité, caractères utilisés).  
 ### Fonctionnement :  
