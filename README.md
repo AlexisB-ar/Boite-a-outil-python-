@@ -1,7 +1,7 @@
 # Boîte à outils Python
 
 ## **Description**
-Afin de mener à bien ce projet, je suis aidé de mes connaissances, d'internet, de vidéos YouTube et d'IA (notamment pour les commentaires...). Ce qui m'a permis d'accroître mes connaissances en Python.
+Afin de mener à bien ce projet, je me suis aidé de mes connaissances, d'internet, de vidéos YouTube et d'IA (notamment pour les commentaires...). Ce qui m'a permis d'accroître mes connaissances en Python.
 Ce projet comporte une collection de 4 programmes permettant de tester, analyser et améliorer la sécurité des mots de passe.  
 Il inclut les méthodes suivantes :  
 - **La Force Brute** : Test de mots de passe en essayant toutes les combinaisons possibles.  
