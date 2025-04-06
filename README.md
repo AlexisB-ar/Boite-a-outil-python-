@@ -34,7 +34,7 @@ Menu principal de l'interface graphique permettant de chosir entre les quatres p
 6. Chaque bouton ouvre une fenêtre dans l'interface graphique avec chacune des fonctionnalités différentes en fonction du programme.
 ---
 
-## Programme 1 : Force Brut 
+## Programme 1 : Brut force 
 ### Description :  
 Ce programme effectue une attaque par force brute, le programme vous demande de rentrer un nombre de caractères qui sera écrit dans un fichier du nom de "fichier.txt" où seront écrits tous les mots de passe incluant tous les types de caractères disponibles (majuscules, minuscules, chiffres, symboles).
 ### Fonctionnement :  
