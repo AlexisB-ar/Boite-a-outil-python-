@@ -14,7 +14,7 @@ Le tout est intégré dans une interface graphique, rendant ces outils faciles �
 
 ## **Table des matières**
 1. [Description](#description)  
-2. [Programme 1 : Force Brute](#programme-1--force-brute)  
+2. [Programme 1 : Force Brute](#Programme 1 : Force Brut)  
 3. [Programme 2 : Attaque par dictionnaire](#programme-2--attaque-par-dictionnaire)  
 4. [Programme 3 : Générateur de mot de passe sécurisé](#programme-3--générateur-de-mot-de-passe-sécurisé)  
 5. [Programme 4 : Analyseur de mot de passe](#programme-4--analyseur-de-mot-de-passe)  
@@ -68,7 +68,7 @@ J'ai crée un fichier ZIP ou j'ai mis un mot de passe, puis j'ai télécharger u
 ### Fonctionnement :  
 1. Vous pouvez revenir sur l'interface principale directement via les onglets en haut de la page
 2. Vous appuyez sur le bouton programme 2 dans l'interface principale une fenetre vas s'ouvrir
-3.  Sur celle si il y aura une fonctionnalité
+3. Sur celle si il y aura une fonctionnalité
 - une vous allez retrouver un bouton avec ecrit "Affichez le mot de passe"
 - appuyer dessus celui ci vous affichera le mot de passe de mon fichier zip, le mot de passe que j'ai mis dans la liste
 - Chaque fois que vous cliquer sur le bouton le message "bonjour :réussite !!" s'affichera dans la console
@@ -76,31 +76,41 @@ J'ai crée un fichier ZIP ou j'ai mis un mot de passe, puis j'ai télécharger u
 
 ---
 
-## **Programme 3 : Analyseur de mot de passe**
+## **Programme 3 : Générateur de mot de passe**
 ### Description :  
-Ce programme évalue la robustesse des mots de passe en fonction de plusieurs critères (longueur, complexité, caractères utilisés).  
+Dans ce programme il y a plusieurs outils : 
+- Un outil qui permet de créer des mots de passe robustes
+- Un historique des 5 dernier mot de passe généres
+- Affichage de conseil pour créer un mot de passe robustes
 ### Fonctionnement :  
-1. Entrez un mot de passe.  
-2. Le programme vous fournit une note et des conseils pour l'améliorer.  
-### Objectif :  
-Sensibiliser à l'importance des mots de passe forts.
+1. Vous pouvez revenir sur l'interface principale directement via les onglets en haut de la page
+2. Vous appuyez sur le bouton programme 3 dans l'interface principale une fenetre vas s'ouvrir
+3. Sur celle si il y aura plusieurs fonctionnalité :
+- Quand vous appuyez sur le bouton générer sa genere un mot de passe robuste de 12 caractere qui mélange (chiffres,Mascule,Minuscule et chiffres)
+- Chaque fois que vous appuyer sur le bouton a nouveau mot de se genere
+- Tous les mots de passe qui se sont afficher s'affiche dans l'historique en dessous du bouton du plus ancien au plus recent (c'est les 5 derniers mot de passe generer)
+- Vous avez aussi un bouton "Afficher Conseils" qui vous affiche des conseils pour créer un bon mot de passe
+
+
 
 ---
 
-## **Interface graphique**
+## **Programme 4 : Analyseur de mot de passe**
 ### Description :  
-Une interface conviviale qui centralise tous les outils en un seul endroit.  
+Ce programme évalue la robustesse des mots de passe en fonction de plusieurs critères (longueur, complexité, caractères utilisés).
+Avec trois niveau de robustesse : 
+- Faible
+- Moyen
+- Fort 
 ### Fonctionnement :  
-1. Lancez l'interface graphique avec le fichier principal.  
-2. Naviguez entre les différents outils via les boutons de l'application.  
-### Objectif :  
-Simplifier l'accès et l'utilisation des programmes.
+1. Vous pouvez revenir sur l'interface principale directement via les onglets en haut de la page
+2. Vous appuyez sur le bouton programme 4 dans l'interface principale une fenetre vas s'ouvrir
+3. Sur celle si il y aura plusieurs fonctionnalité :
+- Vous pouvez entrer le mot de passe que vous souhaitez vérifier la robustesse dans le zone de saisi
+- appuyer sur le bouton "Analyser", est le programme vous diras le niveau de robustesse de votre mot de passe 
+- Vous avez aussi un bouton "Afficher Conseils" qui vous affiche des conseils pour créer un bon mot de passe
+
 
 ---
 
-## **Instructions d'installation**
-1. Clonez le projet depuis GitHub :  
-   ```bash
-   git clone [URL]
-   cd [répertoire_du_projet]
 
