@@ -38,7 +38,7 @@ Menu principal de l'interface graphique permettant de chosir entre les quatres p
 
 ---
 
-## **Programme 1 : Force Brut **
+## Programme 1 : Force Brut 
 ### Description :  
 Ce programme effectue une attaque par force brute, le programme vous demande de rentrer un nombre de caractere qui sera ecrit dans fichier du nom de "fichier.txt" ou sera ecrit tout les motes de passe incluent tous les types de caractères disponibles (majuscules, minuscules, chiffres, symboles). 
 ### Fonctionnement :  
@@ -57,7 +57,7 @@ Ce programme effectue une attaque par force brute, le programme vous demande de 
 
 ---
 
-## **Programme 2 : Attaque par dictionnaire**
+## Programme 2 : Attaque par dictionnaire
 ### Description :  
 Ce programme teste la sécurité des mots de passe en utilisant une liste prédéfinie de mots communs.  
 J'ai crée un fichier ZIP ou j'ai mis un mot de passe, puis j'ai télécharger une liste de mots de passe communs sur internet oiu j'ai ajouter le mot de passe du fichier. 
@@ -72,7 +72,7 @@ J'ai crée un fichier ZIP ou j'ai mis un mot de passe, puis j'ai télécharger u
 
 ---
 
-## **Programme 3 : Générateur de mot de passe**
+## Programme 3 : Générateur de mot de passe
 ### Description :  
 Dans ce programme il y a plusieurs outils : 
 - Un outil qui permet de créer des mots de passe robustes
@@ -91,7 +91,7 @@ Dans ce programme il y a plusieurs outils :
 
 ---
 
-## **Programme 4 : Analyseur de mot de passe**
+## Programme 4 : Analyseur de mot de passe
 ### Description :  
 Ce programme évalue la robustesse des mots de passe en fonction de plusieurs critères (longueur, complexité, caractères utilisés).
 Avec trois niveau de robustesse : 
