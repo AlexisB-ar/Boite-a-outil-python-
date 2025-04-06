@@ -7,3 +7,5 @@ Il inclut des méthodes :
 - Un analyseur de robustesse d'un mot de passe 
       
 Le tout dans une interface graphique pour simplifier leur utilisation. 
+
+Je vais maintenant vous expliquer comment fonctionne mon interface graphique et les programmes pour avoir une meilleur utilisation. 
