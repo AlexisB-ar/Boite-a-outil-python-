@@ -14,7 +14,7 @@ Le tout est intégré dans une interface graphique, rendant ces outils faciles �
 
 ## **Table des matières**
 1. [Description](#description)  
-2. [Programme 1 : Force Brut](#programme-1--Brut-force)  
+2. [Programme 1 : Brut force](#programme-1--Brut-force)  
 3. [Programme 2 : Attaque par dictionnaire](#programme-2--attaque-par-dictionnaire)  
 4. [Programme 3 : Générateur de mot de passe sécurisé](#programme-3--générateur-de-mot-de-passe)  
 5. [Programme 4 : Analyseur de mot de passe](#programme-4--analyseur-de-mot-de-passe)
