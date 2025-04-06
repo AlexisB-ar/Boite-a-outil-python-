@@ -25,24 +25,37 @@ Le tout est intégré dans une interface graphique, rendant ces outils faciles �
 
 ---
 
-## **Programme 1 : Force Brute**
+## **Interface Graphics**
 ### Description :  
-Ce programme effectue une attaque par force brute, testant toutes les combinaisons possibles pour trouver un mot de passe.  
+Menu principal de l'interface graphique permettant de chosir entre les quatres programmes
 ### Fonctionnement :  
-1. Entrez un mot de passe cible.  
-2. Le programme génère automatiquement toutes les combinaisons jusqu'à trouver une correspondance.  
-### Objectif :  
-Illustrer la vulnérabilité des mots de passe faibles.
+1. Lancement de l'interface graphique : lancer le fichier du nom de "interface_graphique"
+2. Ensuite vous arriver sur l'interfece avec plusieur informations :
+3. Vous avez une zone de texte avec une description de chaque programme
+4. En dessous vous avez les boutons ou vous pouvez cliquez sur le bouton correspondant au programme que vous souhaitez lancer.
+5. Fonctionnement des boutons :
+- Programme 1 : Lance la méthode de brute force.
+- Programme 2 : Lance l'attaque par dictionnaire.
+- Programme 3 : Lance le générateur de mots de passe sécurisés.
+- Programme 4 : Lance l'analyseur de mots de passe.
+6. Chaque bouton ouvre une fenetre dans l'interface graphique avec chacune des fonctionnalité differente en fonction du programme.
 
 ---
 
-## **Programme 2 : Attaque par dictionnaire**
+## **Programme 1 : Force Brut **
 ### Description :  
-Ce programme teste la sécurité des mots de passe en utilisant une liste prédéfinie de mots communs.  
+Ce programme effectue une attaque par force brute, le programme vous demande de rentrer un nombre de caractere qui sera ecrit dans fichier du nom de "fichier.txt" ou sera ecrit tout les motes de passe incluent tous les types de caractères disponibles (majuscules, minuscules, chiffres, symboles). 
 ### Fonctionnement :  
-1. Chargez ou utilisez le dictionnaire intégré.  
-2. Entrez un mot de passe cible.  
-3. Le programme compare le mot de passe au dictionnaire.  
+1. Vous appuyez sur le bouton programme 1 dans l'interface principale une fenetre vas s'ouvrir
+2. Vous allez etre rediriger sur la fenetre 
+3. Sur celle si il y aura des fonctionnalité
+- Le programme vas vous demander de saisir un nombre de cacractere
+- une fois que vous avez saisi votre nombre dans la zone de saisi
+- appuyer sur le bouton generer
+- un message s'affichera en vous disant que "Les mots de passe sont générés dans fichier.txt"
+- vous allez dans la commande sur le fichier du nom de "fichier.txt"
+- Les mots de passe seront ecrit selon votre nombre 
+5. Le programme compare le mot de passe au dictionnaire.  
 ### Objectif :  
 Mettre en évidence les risques des mots de passe trop basiques.
 
